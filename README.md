@@ -3,7 +3,7 @@
 - 🌱 我正在學習Java、Node.js/JavaScript 和 Vue.js
 
 - 👋 Hi, I'm VocalicZoo16918 VZ
-- 👀 I'm a magic server's onwer
+- 👀 I'm a magic server's owner
 - 🌱 I'm learning Java, Node.js/JavaScript and Vue.js
 
 
